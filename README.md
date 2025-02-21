@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ikerby341</h1>
 <h3 align="center">A passionate frontend developer from Palafolls</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikerby341&label=Profile%20views&color=0e75b6&style=flat" alt="ikerby341" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikerby341" alt="ikerby341" /></a> </p>
 
 - 🌱 I’m currently learning **Java and MySQL**
