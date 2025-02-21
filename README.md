@@ -20,3 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikerby341&" alt="ikerby341" /></p>
 
+<img src="https://count.getloli.com/@ikerby341?name=ikerby341&theme=gelbooru-h&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=0" />
+
