@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ikerby341&show_icons=true&locale=en&layout=compact&theme=dark" alt="ikerby341" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikerby341&show_icons=true&locale=en&theme=dark" alt="ikerby341" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ikerby341&show_icons=true&locale=en&theme=dark" alt="ikerby341" /></p>
 
 <p align="center">
   <img src="https://count.getloli.com/@ikerby341?name=ikerby341&theme=gelbooru-h&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=0" />
